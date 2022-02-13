@@ -1,2 +1,2 @@
 # RSA-Encryotion
-C++ project which uses RSA encryption algorithm to allow efficient message exchange between the users.
+C++ project which uses RSA encryption algorithm to allow efficient and secure message exchange between the users.
